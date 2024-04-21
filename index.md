@@ -2,9 +2,25 @@
 layout: cv
 title: Krzysztof Gawliński's CV
 ---
+<!DOCTYPE html>
+<title>Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
+<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
 
+<style>
+  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; FONT-FAMILY:"Segoe UI",ARIAL; background-color: white; color: black}
+  h1  { font-size:110%; color: green; font-weight: bold; border-bottom: 1px solid black}
+  h2  { border-bottom:1px solid grey;}
+</style>
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
 <!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
+<style>
+.topLine {border-top: 3px solid green}
+.topDiv {display: grid;justify-content: center; padding: 15px}
+.leftDiv {padding: 10px; border-right: 3px solid green}
+.rightDiv {padding: 10px; padding-left: 20px; border-bottom: 3px solid green}
+</style>
 
 <div id="dvContainer" style="page-break-inside: avoid;">
 <div class="topDiv">
