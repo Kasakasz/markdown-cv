@@ -5,12 +5,7 @@ title: Isaac Newtons's CV
 
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
 <!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
-<style>
-.topLine {border-top: 3px solid green}
-.topDiv {display: grid;justify-content: center; padding: 15px}
-.leftDiv {padding: 10px; border-right: 3px solid green}
-.rightDiv {padding: 10px; padding-left: 20px; border-bottom: 3px solid green}
-</style>
+
 <div id="dvContainer" style="page-break-inside: avoid;">
 <div class="topDiv">
 <div style="display: grid;justify-content: center;font-size:150%;">
