@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Krzysztof Gawliński's CV
 ---
 
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
@@ -16,10 +16,10 @@ Krzysztof Gawliński
 <div class="topLine leftDiv">
 <h1>Contact</h1>
 
-Warszawa 
-+48 793 323 588 
+Warszawa</br>
++48 793 323 588</br>
 k.gawlinski@hotmail.com</br>
-<a href="https://www.linkedin.com/in/krzysztof-gawlinski-salesforce-dev/">LinkedIn Profile </a>
+<a href="https://www.linkedin.com/in/krzysztof-gawlinski-salesforce-dev/">LinkedIn Profile</a></br>
 
 <h1>Education</h1>
 
