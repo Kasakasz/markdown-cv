@@ -2,15 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-<!DOCTYPE html>
-<title>Resume</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style>
-  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; FONT-FAMILY:"Segoe UI",ARIAL; background-color: white; color: black}
-  h1  { font-size:110%; color: green; font-weight: bold; border-bottom: 1px solid black}
-  h2  { border-bottom:1px solid grey;}
-</style>
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
 <!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
 <style>
