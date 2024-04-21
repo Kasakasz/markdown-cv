@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<title>Resume</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
-<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
-
 <style>
   body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; FONT-FAMILY:"Segoe UI",ARIAL; background-color: white; color: black}
   h1  { font-size:110%; color: green; font-weight: bold; border-bottom: 1px solid black}
