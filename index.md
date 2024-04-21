@@ -2,90 +2,107 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+<!DOCTYPE html>
+<title>Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<style>
+  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; FONT-FAMILY:"Segoe UI",ARIAL; background-color: white; color: black}
+  h1  { font-size:110%; color: green; font-weight: bold; border-bottom: 1px solid black}
+  h2  { border-bottom:1px solid grey;}
+</style>
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
+<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
+<style>
+.topLine {border-top: 3px solid green}
+.topDiv {display: grid;justify-content: center; padding: 15px}
+.leftDiv {padding: 10px; border-right: 3px solid green}
+.rightDiv {padding: 10px; padding-left: 20px; border-bottom: 3px solid green}
+</style>
+<div id="dvContainer" style="page-break-inside: avoid;">
+<div class="topDiv">
+<div style="display: grid;justify-content: center;font-size:150%;">
+Krzysztof Gawliński
+</div></br><div style="display: grid;justify-content: center;font-size:120%">Senior Salesforce Developer / Tech Lead / Certified Application Architect</div></br>
 </div>
+<div style="display: flex;justify-content: space-around;">
+<div class="topLine leftDiv">
+<h1>Contact</h1>
 
+Warszawa 
++48 793 323 588 
+k.gawlinski@hotmail.com</br>
+<a href="https://www.linkedin.com/in/krzysztof-gawlinski-salesforce-dev/">LinkedIn Profile </a>
 
-## Currently
+<h1>Education</h1>
 
-Standing on the shoulders of giants
+University of Mechatronics, Katowice,
+Engineer of Mechatronics
 
-### Specialized in
+<h1>Languages</h1>
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+English – fluent 
+Polish – native 
 
+<h1>Skills</h1>
 
-### Research interests
+diligence, teamwork, self-education, communication skills, accuracy, independence</br>
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+<h1>Interests</h1>
 
+Mountain hiking, music, programming, pen and paper games (e.: DnD), board games, video games</br>
+</div>
+<div class="topLine rightDiv">
+Senior Salesforce developer with 8 years of experience in software development, supporting of deployed project and integration of existing IT systems with new elements of architecture. Specializes in designing and implementation of the best solutions tailored to customer needs.</br>
 
-## Education
+<h1>Experience</h1>
 
-`1654-1660`
-__The King's School, Grantham.__
+<b>BEC Poland / Nykredit / Scoutz</b></br>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+ 08.2021 – present • <b>Senior Salesforce Developer / Lead Developer / Tech Lead</b></br>
 
-- Sizar
+<b>Responsibilities</b>
 
-`1667 - death`
-__Trinity College, Cambridge__
+• Creating process for packaged feature delivery,</br>
+• Implementing features in packages with dependency-less approach,</br>
+• Extending Salesforce software based on business requirements using Apex, SOQL, JS, LWC,</br>
+• Implementing self service on Salesforce community cloud,</br>
+• Leading in implementation of development guidelines for new company structure (Scoutz),</br>
+• Introducing and implementing new frameworks,</br>
+• Mentoring experienced developers in Salesforce platform</br>
 
-- Fellow
+<b>PwC IT Services</b>
 
+ 04.2020 – 07.2021 • <b>Senior Salesforce Developer</b></br>
+ 04.2017 – 04.2020 • <b>Salesforce Devloper</b></br>
+ 01.2016 – 04.2017 • <b>Junior Salesforce Devloper</b></br>
 
+<b>Responsibilities</b>
 
-## Awards
+• Working with architects to create high level design and implement requirements,</br>
+• Sharing knowledge with less experienced developers on project and supporting their development skills,</br>
+• Extending Salesforce software based on business requirements using Apex, SOQL, JS, LWC,</br>
+• Experience with Salesforce community cloud, Salesforce service cloud,</br>
+• Driving code conventions and code quality on projects,</br>
+• Working on projects of different sizes (from 1 up to ~250 developers).</br>
 
-`2012`
-President, *Royal Society*, London, UK
+<h1>Technical Skills</h1>
 
-Associate, *French Academy of Science*, Paris, France
+• Programming – Apex, JS, Aura, LWC, Visualforce, HTML/CSS, Java, Shell scripting (Entry level)</br>
+• Os – Windows, Linux(Entry level)</br>
+• CI/CD – SFDX/SF, GIT, Jenkins, TeamCity, Github, Bitbucket</br>
+• Familiar IDE – Visual Studio Code, Webstorm, Illuminated Cloud</br>
 
+<h1>Certificates</h1>
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Salesforce Certified Application Architect • 12.2023</br>
+Salesforce Certified Sharing and Visibility Architect • 12.2023</br>
+Salesforce Certified Data Architecture and Management Design • 08.2020</br>
+Salesforce Certified Platform Developer II • 02.2020</br>
+Salesforce Certified Service Cloud Consultant • 06.2018</br>
+Salesforce Certified Platform Developer I • 04.2017</br>
+Salesforce Certified Platform App Builder • 02.2017</br>
+Salesforce Certified Administrator • 03.2016</br>
+</div>
+</div>
+</div>
