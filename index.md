@@ -12,9 +12,10 @@ title: Krzysztof Gawliński's CV
 .topDiv {display: grid;justify-content: center; padding: 15px}
 .leftDiv {padding: 10px; border-right: 3px solid green}
 .rightDiv {padding: 10px; padding-left: 20px; border-bottom: 3px solid green}
+.mainDiv {line-height:1.5; margin:auto; padding:3px; max-width:1024px; FONT-FAMILY:"Segoe UI",ARIAL; background-color: white; color: black}
 </style>
 
-<div id="dvContainer" style="page-break-inside: avoid;">
+<div id="dvContainer" class="mainDiv">
 <div class="topDiv">
 <div style="display: grid;justify-content: center;font-size:150%;">
 Krzysztof Gawliński
