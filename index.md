@@ -3,7 +3,7 @@
   h1  { font-size:110%; color: green; font-weight: bold; border-bottom: 1px solid black}
   h2  { border-bottom:1px solid grey;}
 </style>
-<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
+
 <!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
 ---
 layout: cv
