@@ -93,3 +93,6 @@ Salesforce Certified Administrator • 03.2016</br>
 </div>
 </div>
 </div>
+<footer>
+<p>I hereby give consent for my personal data to be processed for the purpose of conducting recruitment for the position for which I am applying.</p>
+</footer>
