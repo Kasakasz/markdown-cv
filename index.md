@@ -18,7 +18,7 @@ title: Krzysztof Gawliński's CV
 <div class="topDiv">
 <div style="display: grid;justify-content: center;font-size:150%;">
 Krzysztof Gawliński
-</div></br><div style="display: grid;justify-content: center;font-size:120%">Senior Salesforce Developer / Tech Lead / Certified Application Architect</div></br>
+</div><div style="display: grid;justify-content: center;font-size:120%">Senior Salesforce Developer / Tech Lead / Certified Application Architect</div>
 </div>
 <div style="display: flex;justify-content: space-around;">
 <div class="topLine leftDiv">
