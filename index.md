@@ -1,7 +1,3 @@
----
-layout: cv
-title: Krzysztof Gawliński's CV
----
 <!DOCTYPE html>
 <title>Resume</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,6 +11,11 @@ title: Krzysztof Gawliński's CV
 </style>
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
 <!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
+---
+layout: cv
+title: Krzysztof Gawliński's CV
+---
+
 <style>
 .topLine {border-top: 3px solid green}
 .topDiv {display: grid;justify-content: center; padding: 15px}
