@@ -1,15 +1,12 @@
+---
+layout: cv
+title: Krzysztof Gawliński's CV
+---
 <style>
   body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; FONT-FAMILY:"Segoe UI",ARIAL; background-color: white; color: black}
   h1  { font-size:110%; color: green; font-weight: bold; border-bottom: 1px solid black}
   h2  { border-bottom:1px solid grey;}
 </style>
-
-<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
----
-layout: cv
-title: Krzysztof Gawliński's CV
----
-
 <style>
 .topLine {border-top: 3px solid green}
 .topDiv {display: grid;justify-content: center; padding: 15px}
