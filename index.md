@@ -82,6 +82,8 @@ Senior Salesforce developer with 8 years of experience in software development, 
 
 <h1>Certificates</h1>
 
+Salesforce Certified Data Cloud Consultant • 01.2025</br>
+Salesforce Certified Development Lifecycle and Deployment Architect • 09.2024</br>
 Salesforce Certified Application Architect • 12.2023</br>
 Salesforce Certified Sharing and Visibility Architect • 12.2023</br>
 Salesforce Certified Data Architecture and Management Design • 08.2020</br>
